@@ -1,4 +1,4 @@
-This experiment implements Naïve Bayes classification algorithms.
+This experiment implements Naive Bayes classification algorithms.
 Multinomial Naïve Bayes is used to classify SMS messages as Spam or Ham using the SMS Spam Collection Dataset.
 Text preprocessing and count vectorization are applied before training the model.
 Model performance is evaluated using Accuracy, Precision, Recall, and F1 Score.
